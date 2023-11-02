@@ -26,7 +26,6 @@ print("Fibonacci number for n = 4:", result3)
 The results are printed for each calculated Fibonacci number corresponding to the provided n values.
 
 # Example Output
-java
 
 Fibonacci number for n = 3: 2
 Fibonacci number for n = 6: 8
